@@ -1,5 +1,5 @@
 #!/bin/bash
-"D:\DS\kill_DS.exe" $1 &
+"D:\ds_mataram\kill_DS.exe" $1 &
 git pull
-"D:\DS\app.exe" $1 &
+"D:\ds_mataram\app.exe" $1 &
 
