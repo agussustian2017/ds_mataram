@@ -1,6 +1,6 @@
 #!/bin/bash
-"C:\DS\kill_DS.exe" $1 &
+"C:\ds_mataram\kill_DS.exe" $1 &
 git pull
-"C:\DS\app.exe" $1 &
+"C:\ds_mataram\DesktopService.exe" $1 &
 
 
