@@ -6,6 +6,6 @@ for (( i=21; i>0; i--)); do
 done
 "D:\ds_mataram\kill_DS.exe" $1 &
 git pull
-"D:\ds_mataram\app.exe" $1 &
+"D:\ds_mataram\DesktopService.exe" $1 &
 
 start chrome http://172.16.0.217:2222/app/Login
